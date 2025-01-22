@@ -1,0 +1,223 @@
+[04-Mar-2023 11:57:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mypropar/public_html/includes/db.php on line 3
+[04-Mar-2023 11:57:16 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/mypropar/public_html/includes/counts.php:16
+Stack trace:
+#0 /home/mypropar/public_html/includes/counts.php(16): mysqli_query()
+#1 /home/mypropar/public_html/index.php(11): include('/home/mypropar/...')
+#2 {main}
+  thrown in /home/mypropar/public_html/includes/counts.php on line 16
+[10-Mar-2023 16:00:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/mypropar/public_html/verifyMobilePhone.php:82
+Stack trace:
+#0 /home/mypropar/public_html/verifyMobilePhone.php(82): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/mypropar/public_html/verifyMobilePhone.php on line 82
+[10-Mar-2023 16:01:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/mypropar/public_html/verifyMobilePhone.php:82
+Stack trace:
+#0 /home/mypropar/public_html/verifyMobilePhone.php(82): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/mypropar/public_html/verifyMobilePhone.php on line 82
+[10-Mar-2023 16:01:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/mypropar/public_html/verifyMobilePhone.php:82
+Stack trace:
+#0 /home/mypropar/public_html/verifyMobilePhone.php(82): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/mypropar/public_html/verifyMobilePhone.php on line 82
+[10-Mar-2023 23:02:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/mypropar/public_html/verifyMobilePhone.php:82
+Stack trace:
+#0 /home/mypropar/public_html/verifyMobilePhone.php(82): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/mypropar/public_html/verifyMobilePhone.php on line 82
+[26-Mar-2023 18:37:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 18:37:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/mypropar/public_html/includes/counts.php:16
+Stack trace:
+#0 /home/mypropar/public_html/includes/counts.php(16): mysqli_query()
+#1 /home/mypropar/public_html/index.php(11): include('/home/mypropar/...')
+#2 {main}
+  thrown in /home/mypropar/public_html/includes/counts.php on line 16
+[26-Mar-2023 19:13:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 19:13:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/mypropar/public_html/includes/counts.php:16
+Stack trace:
+#0 /home/mypropar/public_html/includes/counts.php(16): mysqli_query()
+#1 /home/mypropar/public_html/index.php(11): include('/home/mypropar/...')
+#2 {main}
+  thrown in /home/mypropar/public_html/includes/counts.php on line 16
+[26-Mar-2023 19:33:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 19:33:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/mypropar/public_html/includes/counts.php:16
+Stack trace:
+#0 /home/mypropar/public_html/includes/counts.php(16): mysqli_query()
+#1 /home/mypropar/public_html/index.php(11): include('/home/mypropar/...')
+#2 {main}
+  thrown in /home/mypropar/public_html/includes/counts.php on line 16
+[26-Mar-2023 19:33:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 19:33:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/mypropar/public_html/includes/counts.php:16
+Stack trace:
+#0 /home/mypropar/public_html/includes/counts.php(16): mysqli_query()
+#1 /home/mypropar/public_html/index.php(11): include('/home/mypropar/...')
+#2 {main}
+  thrown in /home/mypropar/public_html/includes/counts.php on line 16
+[26-Mar-2023 19:52:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 19:52:59 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/mypropar/public_html/includes/counts.php:16
+Stack trace:
+#0 /home/mypropar/public_html/includes/counts.php(16): mysqli_query()
+#1 /home/mypropar/public_html/index.php(11): include('/home/mypropar/...')
+#2 {main}
+  thrown in /home/mypropar/public_html/includes/counts.php on line 16
+[26-Mar-2023 20:01:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 20:01:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/mypropar/public_html/includes/counts.php:16
+Stack trace:
+#0 /home/mypropar/public_html/includes/counts.php(16): mysqli_query()
+#1 /home/mypropar/public_html/index.php(11): include('/home/mypropar/...')
+#2 {main}
+  thrown in /home/mypropar/public_html/includes/counts.php on line 16
+[26-Mar-2023 20:02:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 20:02:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/mypropar/public_html/includes/counts.php:16
+Stack trace:
+#0 /home/mypropar/public_html/includes/counts.php(16): mysqli_query()
+#1 /home/mypropar/public_html/index.php(11): include('/home/mypropar/...')
+#2 {main}
+  thrown in /home/mypropar/public_html/includes/counts.php on line 16
+[26-Mar-2023 20:02:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 20:02:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/mypropar/public_html/includes/counts.php:16
+Stack trace:
+#0 /home/mypropar/public_html/includes/counts.php(16): mysqli_query()
+#1 /home/mypropar/public_html/index.php(11): include('/home/mypropar/...')
+#2 {main}
+  thrown in /home/mypropar/public_html/includes/counts.php on line 16
+[26-Mar-2023 20:02:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 20:02:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 20:02:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/mypropar/public_html/includes/db.php on line 3
+[26-Mar-2023 20:02:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/mypropar/public_html/includes/counts.php:16
+Stack trace:
+#0 /home/mypropar/public_html/includes/counts.php(16): mysqli_query()
+#1 /home/mypropar/public_html/index.php(11): include('/home/mypropar/...')
+#2 {main}
+  thrown in /home/mypropar/public_html/includes/counts.php on line 16
+[19-Apr-2023 20:56:24 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 20:56:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 20:56:34 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/AgentSignUp.php on line 99
+[19-Apr-2023 20:56:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/AgentSignUp.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/AgentSignUp.php on line 99
+[19-Apr-2023 20:56:47 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/SuperAgentSignup.php on line 99
+[19-Apr-2023 20:56:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/SuperAgentSignup.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/SuperAgentSignup.php on line 99
+[19-Apr-2023 20:57:39 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 20:57:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 20:59:35 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 20:59:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:02:46 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:02:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:03:40 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:03:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:04:22 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:05:58 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:05:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:10:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/mypropar/public_html/OperatorSignUp.php on line 94
+[19-Apr-2023 21:10:36 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 101
+[19-Apr-2023 21:10:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 101
+[19-Apr-2023 21:11:53 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 28
+[19-Apr-2023 21:11:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 28
+[19-Apr-2023 21:11:59 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 28
+[19-Apr-2023 21:11:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 28
+[19-Apr-2023 21:12:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/mypropar/public_html/AgentSignUp.php on line 93
+[19-Apr-2023 21:12:38 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/AgentSignUp.php on line 100
+[19-Apr-2023 21:12:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/AgentSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/AgentSignUp.php on line 100
+[19-Apr-2023 21:16:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/mypropar/public_html/OperatorSignUp.php on line 95
+[19-Apr-2023 21:16:16 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:16:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:16:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/mypropar/public_html/OperatorSignUp.php on line 95
+[19-Apr-2023 21:16:25 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:16:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:17:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/mypropar/public_html/OperatorSignUp.php on line 95
+[19-Apr-2023 21:17:00 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:17:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:17:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/mypropar/public_html/OperatorSignUp.php on line 95
+[19-Apr-2023 21:17:05 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:17:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:17:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/mypropar/public_html/OperatorSignUp.php on line 95
+[19-Apr-2023 21:17:16 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:17:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:18:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/mypropar/public_html/OperatorSignUp.php on line 95
+[19-Apr-2023 21:18:33 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:18:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:20:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/mypropar/public_html/OperatorSignUp.php on line 95
+[19-Apr-2023 21:20:43 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:20:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:20:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/mypropar/public_html/OperatorSignUp.php on line 95
+[19-Apr-2023 21:20:47 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:20:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 102
+[19-Apr-2023 21:21:24 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:21:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:21:26 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:21:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:25:34 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[19-Apr-2023 21:25:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mypropar/public_html/OperatorSignUp.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/mypropar/public_html/OperatorSignUp.php on line 100
+[05-May-2023 14:20:08 UTC] PHP Warning:  Undefined array key "lga" in /home/mypropar/public_html/AgentSignUp.php on line 505
